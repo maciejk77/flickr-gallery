@@ -1,6 +1,6 @@
 This project uses AJAX, Flickr API to generate dynamic gallery of photos based on query string. Data provided via API is in JSONP format
 
-####Key learnings:
+Key learnings:
 
-**JSONP concept of linking to 3rd party data providers (other domains)**
-**Programming AJAX request and callback**
+- JSONP concept of linking to 3rd party data providers (other domains)
+- Programming AJAX request and callback
