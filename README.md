@@ -1,4 +1,5 @@
-This project uses **AJAX**, Flickr **API** to generate dynamic gallery of photos based on query string. Data provided via API is in **JSONP** format
+This project uses **AJAX**, Flickr **API** to generate dynamic gallery of photos based on query string. 
+Data provided via API is in **JSONP** format
 
 ####Key learnings:
 
